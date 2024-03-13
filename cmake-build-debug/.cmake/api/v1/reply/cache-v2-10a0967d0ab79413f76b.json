@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/petrascheuer/Desktop/ALGO_P1/cmake-build-debug"
+			"value" : "/Users/petrascheuer/Desktop/ALGO_P1 2/cmake-build-debug"
 		},
 		{
 			"name" : "ALGO_P1_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/petrascheuer/Desktop/ALGO_P1"
+			"value" : "/Users/petrascheuer/Desktop/ALGO_P1 2"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/petrascheuer/Desktop/ALGO_P1/cmake-build-debug"
+			"value" : "/Users/petrascheuer/Desktop/ALGO_P1 2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/petrascheuer/Desktop/ALGO_P1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/petrascheuer/Desktop/ALGO_P1 2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/petrascheuer/Desktop/ALGO_P1"
+			"value" : "/Users/petrascheuer/Desktop/ALGO_P1 2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",

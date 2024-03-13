@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/petrascheuer/Desktop/ALGO_P1 -B /Users/petrascheuer/Desktop/ALGO_P1/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/petrascheuer/Desktop/ALGO_P1 2" -B "/Users/petrascheuer/Desktop/ALGO_P1 2/cmake-build-debug"
 -- The C compiler identification is AppleClang 14.0.3.14030022
 -- The CXX compiler identification is AppleClang 14.0.3.14030022
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (0.5s)
+-- Configuring done (0.4s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/petrascheuer/Desktop/ALGO_P1/cmake-build-debug
+-- Build files have been written to: /Users/petrascheuer/Desktop/ALGO_P1 2/cmake-build-debug
